@@ -1,0 +1,13 @@
+select 
+    orderID,
+    sum(quantity * unitprice) as [total price],
+    avg(quantity * unitprice) as Average
+from
+    [order details]
+group by
+    orderID
+ORDER BY
+    sum(quantity * unitprice) desc
+    
+    
+;

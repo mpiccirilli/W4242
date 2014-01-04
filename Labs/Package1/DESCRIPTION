@@ -1,0 +1,15 @@
+Package: Package1
+Type: Package
+Title: Do some simple things.
+Version: 0.0.1
+Date: 2013-12-03
+Author: Michael Piccirilli
+Maintainer: Michael Piccirilli <michael.r.piccirilli@gmail.com>
+Description: We're doing something fun
+License: BSD
+LazyLoad: yes
+ByteComplie: TRUE
+Collate:
+    'add.r'
+Imports:
+    ggplot2
