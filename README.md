@@ -1,4 +1,4 @@
 W4242
 =====
 
-Files/Assignments/Labs to the Intro to Data Science class, Fall 2013
+Intro to Data Science, Columbia University, Fall 2013 - Labs/Assignments
