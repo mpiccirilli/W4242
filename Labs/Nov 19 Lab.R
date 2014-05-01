@@ -1,6 +1,6 @@
 fakeData <-
-  c("Statistics is a small part of data science buy data sicence is not a part",
-    "Data science uses statistics and data minint",
+  c("Statistics is a small part of data science but data sicence is not a part statistics",
+    "Data science uses statistics and data mining",
     "antother word for data mining is machine learning or statistical learning")
 
 keyval <- function(key, value=NULL)
